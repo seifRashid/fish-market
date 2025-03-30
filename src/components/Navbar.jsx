@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function Navbar() {
   return (
-    <nav className="bg-blue-500 p-4 text-white">
+    <nav className="bg-[#005f73] p-4 text-white">
       <div className="container mx-auto flex justify-between items-center">
         <h1 className="text-2xl font-bold">Fish Market Platform</h1>
         <ul className="flex space-x-4">
