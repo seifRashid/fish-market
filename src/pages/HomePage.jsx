@@ -9,7 +9,6 @@ function HomePage() {
       <Navbar />
       <HeroSection/>
       <Featured/>
-      
     </div>
   )
 }
